@@ -120,9 +120,11 @@ Estrutura do Código
 
 EntregaComJanelas.cpp
 ├── struct Entrega
-├── ordenarPorFim()
-├── encontrarEntregaCompativel()
-├── calcularMaximoAtendimentosComReconstrucao()
-└── main()
 
-Só pedir!
+├── ordenarPorFim()
+
+├── encontrarEntregaCompativel()
+
+├── calcularMaximoAtendimentosComReconstrucao()
+
+└── main()
