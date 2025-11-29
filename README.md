@@ -1,3 +1,5 @@
+Link do vídeo no youtube: https://youtu.be/hJ5elbzm_90
+
 EntregaComJanelas — Seleção Ótima de Entregas com Janela de Tempo
 
 Este programa implementa uma solução baseada em **Programação Dinâmica** para selecionar o maior número possível de entregas dentro de suas respectivas janelas de tempo, garantindo que **nenhuma entrega se sobreponha**.
